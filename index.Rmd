@@ -1,7 +1,7 @@
 ---
-title: 'Sustainable practices for dredge material placement and bank protection'
-author: "PIANC Smart Rivers 2025"
-date: "September 2025"
+title: 'Field Experiences in Natural Infrastructure'
+author: "Network for Engineering With Nature"
+date: "October 2025"
 output: html_document
 ---
 
@@ -9,41 +9,33 @@ output: html_document
 
 ::: columns
 ::: {.column width="50%"}
-[PIANC Smart Rivers 2025](https://smartrivers2025.com/)  
-Monday, September 8, 2025  
-1:00-4:30 PM  
-Renasant Convention Center, 255 North Main St., Memphis, TN 38103  
-Room 104  
+[UGA Institute for Resilient Infrastructure Systems](https://iris.uga.edu/)  
+October 23-26, 2025  
+9:00-5:00 PM (daily)  
 
 Instructional team:
 
-- Dr. Burton Suedel, Research Biologist, [Environmental Laboratory](https://www.erdc.usace.army.mil/Locations/EL/), U.S. Army Engineer Research and Development Center.  
-- Calvin Creech, [Institute for Water Resources](https://www.iwr.usace.army.mil/), U.S. Army Corps of Engineers.  
-- Dr. Kyle McKay, Environmental Director, [Woolpert](https://woolpert.com/)
+- [Dr. Brian Bledsoe](https://bledsoe.engr.uga.edu/brian-bledsoe/), [Institute for Resilient Infrastructure Systems](https://iris.uga.edu/), University of Georgia.  
+- [Dr. Kyle McKay](https://skmckay.github.io/), Environmental Director, [Woolpert](https://woolpert.com/).
 
 :::
 
 ::: {.column width="50%"}
 ```{r echo=FALSE}
-knitr::include_graphics("SmartRivers2025.jpg")
+knitr::include_graphics("NEWN-fullcolor-horizontal.jpg")
 ```
 :::
 :::
 
 # **Overview**
 
-Sustainable development of infrastructure systems is an emerging priority worldwide, and nature-based solutions are increasingly applied in navigable waterways to meet infrastructure needs as well as produce social and environmental benefits. This short course will cover how science-based guidance can inform decisions about waterborne infrastructure projects for two common areas of practice: sustainable sediment management and technical-biological bank protection. Participants will learn about the broader context for sustainable waterway management as well as technical guidance for executing these two types of nature-based solutions.
+Insert.
 
-This short course emerged from three PIANC working groups addressing sustainable management of navigable waters. The following working groups and members are gratefully acknowledged for their direct and indirect contributions to this class:  
+Download syllabus.
 
-- Working group 214 - Beneficial Use for Sustainable Waterborne Transport Infrastructure Projects – Victor Magar (Chair), Burton Suedel (Mentor).  
-- Working group 236 - Sustainable Management of the Navigability of Natural Rivers - JM Hiver (Université Libre de Bruxelles, Belgium), NP Huber (Bundesanstalt Für Wasserbau (BAW), Germany), E Mosselman (Delft University of Technology & Deltares, The Netherlands), and Calvin Creech (US Army Corps of Engineers, USA).  
-- Working group 128 - Technical-Biological Bank Protections for Inland Waterways - Bernhard Söhngen (WG Chair, Federal Waterways Engineering and Research Institute, Karlsruhe, Germany), Jeroen Verbelen (WG member, De Vlaamse Waterweg NV, Merelbeke, Belgium), Jos Wieggers (WG member, Rijkswaterstaat, Utrecht, Lelystad, The Netherlands), Kyle McKay (WG Member, Woolpert, New York, New York, USA), and Chris Haring (Coastal and Hydraulics Laboratory, U.S. Army Corps of Engineers, Rock Island, Illinois, USA).
 
-# **Course Agenda**
+# **Course Overview**
 
-::: columns
-::: {.column width="50%"}
 
 - 12:30-1:00: Arrive & coffee  
 - 1:00-1:15: Welcome and introductions (Suedel).  
@@ -57,96 +49,39 @@ This short course emerged from three PIANC working groups addressing sustainable
 - 4:30: Adjourn.  
 - 5:00-7:00: Conference welcome reception.  
 
-:::
 
-::: {.column width="50%"}
-```{r echo=FALSE}
-knitr::include_graphics("CourseParticipants2.jpg")
-```
-:::
-:::
+# **Thursday (Oct 23)**
 
-# **Nature-based solutions**
+Insert.
 
-Nature-based solutions (NBS) have been defined as “actions to protect, conserve, restore, sustainably use and manage natural or modified terrestrial, freshwater, coastal and marine ecosystems, which address social, economic and environmental challenges effectively and adaptively, while simultaneously providing human well-being, ecosystem services and resilience and biodiversity benefits” (UNEP 2022). However, from a practical perspective, NBS can be loosely characterized as having some of the following properties: (1) they perform infrastructure services, (2) NBS consists (at least in part) of natural or living materials, (3) they are intentionally designed for environmental and social benefits, and (4) NBS enhance resilience through self-adjustment. This presentation provides a general background on NBS and their relevance to navigable waterways. Specifically, two main themes will be addressed in this [presentation from Dr. Kyle McKay](PIANC_NBS_Overview_McKay_2025-09-04.pdf):  
+Download handouts.
 
-- The convergence of infrastructure planning and biodiversity conservation, and how they has propagated into use of nature-based solutions.  
-- The use of nature-based solutions in ports, harbors, and navigable waterways with a specific emphasis on recent initiatives from the World Bank, PIANC, and the US Army Corps of Engineers.
-
-Pertinent resources to learn more about nature-based solutions:  
-
-- [PIANC's Working With Nature Initiative](https://www.pianc.org/working-with-nature/)  
-- [USACE's Engineering with Nature Initiative](https://ewn.erdc.dren.mil/)  
-- [International Guidelines on Natural and Nature-Based Features for Flood Risk Management](https://ewn.erdc.dren.mil/international-guidelines-on-natural-and-nature-based-features-for-flood-risk-management/)  
-- [Network for Engineering with Nature](https://n-ewn.org/)  
-- [Nature-based solutions for Urban Resilience in the Anthropocene (NATURA) Network](https://natura-net.org/)  
-- [EcoShape](https://www.ecoshape.org/en/)  
-- [Nature-Based Solutions for Ports: An Overview of NBS Implementation in Practice - Opportunities and Challenges](https://openknowledge.worldbank.org/entities/publication/f6e6b4cb-74c0-4bef-ab5c-da6cc0bdbebe)  
-- [Applying the Working with Nature philosophy to navigation infrastructure projects (Suedel et al. 2024)](suedel-et-al-2024-applying-the-working-with-nature-philosophy-to-navigation-infrastructure-projects.pdf)
+Links to pertinent resources.
 
 
-```{r echo=FALSE, fig.cap="Nature-based solutions are a spectrum of actions from more to less naturalized (Figure from Van Rees et al. 2023 PNAS)."}
-knitr::include_graphics("NBS_VanRees.png")
-```
+# **Friday (Oct 24)**
+
+Insert.
+
+Download handouts.
+
+Links to pertinent resources.
 
 
-# **Navigability of Natural Rivers**
+# **Saturday (Oct 25)**
 
-The PIANC InCom/Envicom Working Group 236 was established in early 2021 to develop PIANC guidelines for improving navigability conditions on natural or quasi-natural rivers, while maintaining morphological processes, river form, and function. A natural river system exhibits two important characteristics – 1) unregulated hydrology and 2) unconstrained morphology. The key objectives of the WG236 – Sustainable Management of the Navigability of Natural Rivers – include: 1) development of guidelines to improve and maintain the navigability in natural rivers; 2) assess the sustainability of river training works designed to improve the navigability; 3) assess the sustainability of dynamic river management (monitoring and shifting of navigation aids to adapt the navigation channel to the river dynamics); 4) highlight the technical, operational, economic and environmental considerations for navigation in free-flowing rivers compared to that in regulated rivers and canals; and 5) improve the understanding of the physical processes in natural rivers, developed with or without river training works.
+Insert.
 
-The developed guidance includes a planning framework for developing a navigability improvement masterplan for a natural river system, and the integrated and adaptive management strategies that can be applied at a system scale. Specific interventions and measures have been identified that are analysed to meet the dual goals of maintaining morphological river function and improving navigability conditions. These measures include dynamic charting; morphological dredging and disposal management; Temporary, Adaptable, and Flexible Training Structures (TAFTS); riverbed armouring and sediment nourishment; rock excavation; meander cutoffs and oxbow development; localized traditional river training structures; and channel closure structures. The impacts and strategies for mitigating impacts associated with some of the measures are analysed and discussed. Finally, the continual monitoring, management, and operational tools available for improving navigability in a morphologically active river system are presented. 
+Download handouts.
 
-- [Conference Proceedings Paper of the 35th PIANC World Congres 2024 about WG236](https://pure.tudelft.nl/ws/portalfiles/portal/221662388/PIANC_Working_Group_236_-_Sustainable_Management_of_the_Navigability_of_Natural_Rivers.pdf).  
-- [Webinar](https://pianc.us/event/wg236/).  
-
-
-# **Sustainable Sediment Management**
-
-Sustainable development of infrastructure systems is an emerging priority worldwide, and recent U.S. policy directives favor implementing nature-based solutions. This session will cover how science-based guidance can be used to shape and inform future practices in the development of sustainable navigation infrastructure and to promote sustainable development and the use of nature-based solutions for waterborne infrastructure projects. Participants will be able to advance environmental and other benefits when incorporating dredged sediment in navigation infrastructure. Specifically, this session will provide an enhanced understanding of how to achieve more sustainable management of dredged material applicable to a wide variety of dredging projects in both coastal and inland systems.
-
-[Slides from Dr. Burton Suedel](Sustainable Sediment Management_Suedel(1).pdf)
-
-Pertinent resources to learn more about sustainable sediment management:  
-
-- [USACE's Dredging Operations and Environmental Research Program (DOER)](https://doer.el.erdc.dren.mil/)  
-- [USACE's Dredging Operations Technical Support Program (DOTS)](https://dots.el.erdc.dren.mil/)  
-
-# **Technical-Biological Bank Protection**
-
-::: columns
-::: {.column width="70%"}
-Globally, nature-based solutions are increasingly used for streambank protection in navigable waterways, leading to a proliferation of guidelines and recommendations. PIANC Working Group 128 was established to collect and condense expert knowledge in this field. The corresponding report is split into three parts, which are covered in this workshop:  
-
-- [Part 1: Basics of a best practice approach](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-1-basics-of-a-best-practice-approach/)  
-- [Part 2: Library of measures](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-2-library-of-measures/)  
-- [Part 3: Decision support advice](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-3-decision-support-advice/)  
-- [Spreadsheet tools accompanying reports](https://pianc.app.box.com/s/uh6bfl1lg6zmtn7uqol3qzfsjz2u6xu7)
-
-These engineering guidance documents detail the planning and design approach (at the scale 0f 660+ pages!), but an abbreviated summary of this material will be provided here. Specifically, a mix of in-person lectures and videos are used to introduce both the reports and the experts working in these fields.  
-
-- An overview of PIANC Working Group 128 from the Chairman. [Slides from Dr. Bernhard Söhngen](PIANC_SmartRivers_WG128_Overview_Söhngen.pdf) and [Video from Dr. Bernhard Söhngen](https://drive.google.com/file/d/1He14Xt4pcLMn-mwjL2K3VCgOZm4UJwnx/view?usp=drive_link).  
-- Review of families of technical-biological bank protection methods. [Slides from Dr. Kyle McKay](PIANC_SmartRivers_BankProtection_McKay.pdf).  
-- Case study of biological bank protection and renaturalization of the Small Northern IJ-Lake. [Slides from Dr. Jos Wieggers](PIANC_SmartRivers_BankProtection_Wieggers.pdf).  
-
-:::
-
-::: {.column width="30%"}
-```{r echo=FALSE}
-knitr::include_graphics("PIANC128ReportCover.jpg")
-```
-:::
-:::
+Links to pertinent resources.
 
 
-Other guidance documents and manuals on technical-biological bank protection:  
+# **Sunday (Oct 26)**
 
-- [German Federal Waterways materials](https://ufersicherung-baw-bfg.baw.de/index-en.html)  
-- [United Kingdom Estuary Edges Approach](https://www.estuaryedges.co.uk/)  
-- [U.S. Federal Interagency Stream Restoration Working Group (1997)](https://www3.uwsp.edu/cnr-ap/UWEXLakes/PublishingImages/resources/restoration-project/StreamRestorationHandbook.pdf)  
-- [US Department of Agriculture engineering manual for stream restoration](https://policy.nrcs.usda.gov/searchdirective/210%20H%20Part%20654)
-- [US Bureau of Reclamation (2015)](https://www.usbr.gov/tsc/techreferences/mands/mands-pdfs/A-BankStab-final6-25-2015.pdf)  
-- [US National Cooperative Highway Research Program (2005)](https://onlinepubs.trb.org/onlinepubs/nchrp/nchrp_rpt_544.pdf)  
-- [US Army Corps of Engineers (1997)](https://hdl.handle.net/11681/9983)  
-- [US National Large Wood Manual](https://ewn.erdc.dren.mil/publications/archive/national-large-wood-manual/)
+Insert.
 
+Download handouts.
+
+Links to pertinent resources.
 
