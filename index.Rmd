@@ -146,7 +146,7 @@ Download daily handout (**forthcoming**).
 Links to pertinent resources:  
 
 - [Upper Oconee Watershed Network](https://uown.org/UOWN-Wordpress/)  
-- **ADD LINK FOR MIDDLE OCONEE RESOURCES**  
+- [Bibliography of Middle Oconee River Studies](https://skmckay.github.io/MiddleOconee/)  
 - [USGS Structured Decision Making Homepage](https://www.usgs.gov/centers/eesc/science/structured-decision-making#overview)
 
 :::
