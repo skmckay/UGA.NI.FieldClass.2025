@@ -67,7 +67,7 @@ Some of the documents listed are available for downloading. They are provided as
 
 ::: columns
 ::: {.column width="50%"}
-Download daily handout (**forthcoming**).
+[Download daily handout](UGA_NI_Field_Course_Handouts_2025-10-20_Thursday.pdf)
 
 - 0900 – Convene at parking lot in front of Boyd Graduate Studies Building (inside lobby in case of rain)  
 - 1000-1200 - Whitehall Forest, Dean's pond, and the Middle Oconee River floodplain  
@@ -105,14 +105,14 @@ knitr::include_graphics("WhiteDam.jpg")
 
 ::: columns
 ::: {.column width="50%"}
-Download daily handout (**forthcoming**).
+[Download daily handout](UGA_NI_Field_Course_Handouts_2025-10-20_Friday.pdf)
 
 - 0900 – Convene at parking lot in front of Boyd Graduate Studies Bldg (inside lobby in case of rain).  
 - 0900-1200 – Campus stormwater walk.  
 - 1200-1300 – Lunch on your own in downtown Athens.  
-- 1300 – Convene at the Arch for a van ride to the North Oconee Greenway.  
-- 1300-1500 – North Oconee River flood management and Trail Creek chemical spill.  
-- 1500-1630 - Hypothetical structured decision making exercise.  
+- 1300-1430 – North Oconee River flood management and Trail Creek chemical spill.  
+- 1430-1515 - Hypothetical exercise identifying criteria for the city's use on natural infrastructure projects.  
+- 1515-1630 – Structured decision making and hypothetical design-making exercise.  
 - 1630-1700 - Vans return to Boyd Graduate Studies Building and adjourn.
 
 Links to pertinent resources:  
@@ -134,7 +134,7 @@ knitr::include_graphics("StormwaterWalk.jpg")
 ::: columns
 ::: {.column width="50%"}
 
-Download daily handout (**forthcoming**).
+[Download daily handout](UGA_NI_Field_Course_Handouts_2025-10-20_Saturday.pdf)
 
 - 0900 – Convene at parking lot in front of Boyd Graduate Studies Bldg (inside lobby in case of rain).  
 - 0930 – Arrive at Ben Burton Park.  
@@ -164,7 +164,7 @@ knitr::include_graphics("MiddleOconee.jpg")
 ::: columns
 ::: {.column width="50%"}
 
-Download daily handout (**forthcoming**).
+[Download daily handout](UGA_NI_Field_Course_Handouts_2025-10-20_Sunday.pdf)
 
 - 0900 – Convene at West entrance to STEM2 (opposite the back of the Ecology Bldg).  
 - 0900-1000 - Team time for final preparations of group presentations.  
@@ -172,10 +172,6 @@ Download daily handout (**forthcoming**).
 - 1130-1200 – Summary and final thoughts.  
 - 1200 – ADJOURN.
 
-Links to pertinent resources:  
-
-- **ADD LINK TO PRESENTATION TEMPLATE**  
-- **ADD LINK TO PRESENTATION RESOURCES**  
 :::
 
 ::: {.column width="50%"}
